@@ -1,0 +1,17 @@
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\МозаикаERP.Data.dll.config
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\МозаикаERP.Data.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\МозаикаERP.Data.pdb
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\EntityFramework.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\Microsoft.Analytics.Types.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\System.Data.SqlClient.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\EntityFramework.xml
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\bin\Debug\System.Data.SqlClient.xml
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\obj\Debug\МозаикаERP.Data.csproj.AssemblyReference.cache
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\obj\Debug\МозаикаERP.Data.csproj.CoreCompileInputs.cache
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\obj\Debug\МозаикаERP.Data.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\obj\Debug\МозаикаERP.Data.pdb
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Data\obj\Debug\_______E.9CC36AEA.Up2Date

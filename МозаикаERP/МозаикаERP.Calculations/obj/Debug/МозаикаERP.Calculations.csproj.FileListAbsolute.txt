@@ -1,0 +1,12 @@
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\МозаикаERP.Calculations.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\МозаикаERP.Calculations.pdb
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\Microsoft.Analytics.Types.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\System.Data.SqlClient.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\bin\Debug\System.Data.SqlClient.xml
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\obj\Debug\МозаикаERP.Calculations.csproj.AssemblyReference.cache
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\obj\Debug\МозаикаERP.Calculations.csproj.CoreCompileInputs.cache
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\obj\Debug\МозаикаERP.Calculations.dll
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\obj\Debug\МозаикаERP.Calculations.pdb
+E:\4 курс\УП 02.01\Проект2\МозаикаERP\МозаикаERP.Calculations\obj\Debug\_______E.2B2BE9BD.Up2Date

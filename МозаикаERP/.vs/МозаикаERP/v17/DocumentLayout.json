@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D95502-8D4E-4EB4-A0A0-DA4661E93F45}|\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests.csproj|e:\\4 \u043A\u0443\u0440\u0441\\\u0443\u043F 02.01\\\u043F\u0440\u043E\u0435\u043A\u04422\\\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp\\\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp.tests\\productioncalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D95502-8D4E-4EB4-A0A0-DA4661E93F45}|\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests.csproj|solutionrelative:\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp.tests\\productioncalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D95502-8D4E-4EB4-A0A0-DA4661E93F45}|\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp.tests\\moduleaccesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D95502-8D4E-4EB4-A0A0-DA4661E93F45}|\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests.csproj|solutionrelative:\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp.tests\\moduleaccesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D95502-8D4E-4EB4-A0A0-DA4661E93F45}|\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D95502-8D4E-4EB4-A0A0-DA4661E93F45}|\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests.csproj|solutionrelative:\u043C\u043E\u0437\u0430\u0438\u043A\u0430erp.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\AuthServiceTests.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:30:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductionCalculatorTests.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ProductionCalculatorTests.cs",
+              "RelativeDocumentMoniker": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ProductionCalculatorTests.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ProductionCalculatorTests.cs",
+              "RelativeToolTip": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ProductionCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:26:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleAccessTests.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ModuleAccessTests.cs",
+              "RelativeDocumentMoniker": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ModuleAccessTests.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u041F 02.01\\\u041F\u0440\u043E\u0435\u043A\u04422\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP\\\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ModuleAccessTests.cs",
+              "RelativeToolTip": "\u041C\u043E\u0437\u0430\u0438\u043A\u0430ERP.Tests\\ModuleAccessTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:31:10.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
