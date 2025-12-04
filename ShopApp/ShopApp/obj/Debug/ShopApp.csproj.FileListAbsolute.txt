@@ -1,0 +1,4 @@
+E:\4 курс\УП 02.01\Пробный демоэкзамен\Проект\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.AssemblyReference.cache
+E:\4 курс\УП 02.01\Пробный демоэкзамен\Проект\ShopApp\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+E:\4 курс\УП 02.01\Пробный демоэкзамен\Проект\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+E:\4 курс\УП 02.01\Пробный демоэкзамен\Проект\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
